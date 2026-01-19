@@ -42,32 +42,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 SlotSwapper – Real-Time P2P Scheduling Platform  
-**React · Node.js · PostgreSQL · WebSockets**  
-🔗 Repo: https://github.com/sirisha-gururaj/SlotSwapper  
-🚀 Live: https://slotswapper-rouge.vercel.app/login  
-> JWT & Google OAuth authentication, real-time notifications, transactional APIs
-
----
-
-### 🔹 ByteEat – AI-Driven Restaurant Application  
-**Flutter · Flask · Supabase · PostgreSQL**  
-🔗 **Repo:** https://github.com/sirisha-gururaj/resto-byte-eat  
-🚀 **Live:** https://restaurant-mangement-app-frontend.onrender.com/
-> AI voice assistant, smart recommendations, secure payments, role-based dashboards
-
----
-
-### 🔹 MyCampusBot – One Bot. All Answers  
-**Python · LangChain · Streamlit**  
-🔗 Repo: https://github.com/sirisha-gururaj/MyCampusBot  
-🚀 Live: https://sirisha-gururaj-project-app-kiounk.streamlit.app/  
-> RAG-based chatbot with live web fallback and customizable responses
-
----
-
 ## 📄 Research & Publication
 
 📘 **Review on Digital Twin – A Transformative Journey from Conceptualization to Real-World Implementation**  
