@@ -2,17 +2,18 @@
 
 🎓 MCA student at **St. Joseph’s University, Bengaluru**  
 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast  
-🚀 Turning ideas into scalable, intelligent applications  
+🚀 Building scalable, intelligent, real-world applications  
 
 🌐 **Portfolio:** https://sirisha--portfolio.vercel.app/
+📄 **Resume:** https://drive.google.com/file/d/1eO6OUBY0NdtVJIfq8yZynJBNowONrELN/view
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🔭 Focused on **full-stack development & AI-driven systems**
-- 🌱 Learning **Spring Boot, scalable backend design & applied AI**
-- 🤝 Open to internships, collaborations & open-source
+- 🔭 Interested in **full-stack development & AI-powered systems**
+- 🌱 Learning **Spring Boot, scalable backend architectures & applied AI**
+- 🤝 Open to internships, collaborations & open-source contributions
 - 📍 Bengaluru, India
 
 ---
@@ -31,7 +32,7 @@
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
 ![REST](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative_AI-4B0082?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-4B0082?style=for-the-badge)
 
 ### 🗄️ Databases & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
@@ -44,32 +45,43 @@
 
 ### 🔹 SlotSwapper – Real-Time P2P Scheduling Platform  
 **React · Node.js · PostgreSQL · WebSockets**  
-🔗 **Repo:** https://github.com/sirisha-gururaj/SlotSwapper 
-🚀 **Live:** https://slotswapper-rouge.vercel.app/login  
+🔗 Repo: https://github.com/sirisha-gururaj/SlotSwapper  
+🚀 Live: https://slotswapper-rouge.vercel.app/login  
 > JWT & Google OAuth authentication, real-time notifications, transactional APIs
 
 ---
 
 ### 🔹 ByteEat – AI-Driven Restaurant Application  
 **Flutter · Flask · Supabase · PostgreSQL**  
-🔗 **Repo:** https://github.com/sirisha-gururaj/resto-byte-eat  
-🚀 **Live:** https://restaurant-mangement-app-frontend.onrender.com/  
+🔗 Repo: https://github.com/sirisha-gururaj/resto-byte-eat
+🚀 Live: https://restaurant-mangement-app-frontend.onrender.com/  
 > AI voice assistant, smart recommendations, secure payments, role-based dashboards
 
 ---
 
 ### 🔹 MyCampusBot – One Bot. All Answers  
 **Python · LangChain · Streamlit**  
-🔗 **Repo:** https://github.com/sirisha-gururaj/MyCampusBot  
-🚀 **Live:** https://sirisha-gururaj-project-app-kiounk.streamlit.app/  
+🔗 Repo: https://github.com/sirisha-gururaj/MyCampusBot  
+🚀 Live: https://sirisha-gururaj-project-app-kiounk.streamlit.app/  
 > RAG-based chatbot with live web fallback and customizable responses
 
 ---
 
-## 📄 Research & Publications
+## 📄 Research & Publication
 
-📘 **Review on Digital Twin – From Concept to Real-World Impact**  
-*International Conference on Current Trends in Information Technology (ICCTIT-2025)*
+📘 **Review on Digital Twin – A Transformative Journey from Conceptualization to Real-World Implementation**  
+🔗 Paper: https://drive.google.com/file/d/1tN3SeZmZEE2e2orLaSaYC0d34YwhFiVV/view  
+🏛️ *International Conference on Current Trends in Information Technology (ICCTIT-2025)*
+
+---
+
+## 📊 GitHub Stats
+
+![Sirisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirisha-gururaj&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirisha-gururaj&layout=compact&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sirisha-gururaj&theme=tokyo-night)
 
 ---
 
