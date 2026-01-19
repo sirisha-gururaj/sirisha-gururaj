@@ -4,8 +4,9 @@
 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast  
 🚀 Building scalable, intelligent, real-world applications  
 
-🌐 **Portfolio:** https://sirisha--portfolio.vercel.app/
+🌐 **Portfolio:** https://sirisha--portfolio.vercel.app/  
 📄 **Resume:** https://drive.google.com/file/d/1eO6OUBY0NdtVJIfq8yZynJBNowONrELN/view
+
 
 ---
 
@@ -53,8 +54,8 @@
 
 ### 🔹 ByteEat – AI-Driven Restaurant Application  
 **Flutter · Flask · Supabase · PostgreSQL**  
-🔗 Repo: https://github.com/sirisha-gururaj/resto-byte-eat
-🚀 Live: https://restaurant-mangement-app-frontend.onrender.com/  
+🔗 **Repo:** https://github.com/sirisha-gururaj/resto-byte-eat  
+🚀 **Live:** https://restaurant-mangement-app-frontend.onrender.com/
 > AI voice assistant, smart recommendations, secure payments, role-based dashboards
 
 ---
@@ -72,16 +73,6 @@
 📘 **Review on Digital Twin – A Transformative Journey from Conceptualization to Real-World Implementation**  
 🔗 Paper: https://drive.google.com/file/d/1tN3SeZmZEE2e2orLaSaYC0d34YwhFiVV/view  
 🏛️ *International Conference on Current Trends in Information Technology (ICCTIT-2025)*
-
----
-
-## 📊 GitHub Stats
-
-![Sirisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirisha-gururaj&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirisha-gururaj&layout=compact&theme=tokyonight)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sirisha-gururaj&theme=tokyo-night)
 
 ---
 
