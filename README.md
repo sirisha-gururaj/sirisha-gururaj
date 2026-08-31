@@ -5,8 +5,7 @@
 🚀 Building scalable, intelligent, real-world applications  
 
 🌐 **Portfolio:** https://sirisha--portfolio.vercel.app/  
-📄 **Resume:** https://drive.google.com/file/d/1eO6OUBY0NdtVJIfq8yZynJBNowONrELN/view
-
+📄 **Resume:** https://drive.google.com/file/d/11cl4M0y2Zd7tw4Rfg1sjudLqumIsE3gV/view?usp=drive_link
 
 ---
 
